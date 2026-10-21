@@ -1,0 +1,27 @@
+PASS 1 PHP起動と入口表示
+PASS 2 登録とHTMLエスケープ
+PASS 3 セッションCookie保護
+PASS 4 映画の追加フォーム処理
+PASS 5 CPU候補の追加
+PASS 6 曲名追加
+PASS 7 同名の歌手追加
+PASS 8 重複拒否
+PASS 9 新規対戦
+PASS 10 追加語の別名回答とCPUの追加語使用
+PASS 11 古いフォームの拒否
+PASS 12 セーブ中断
+PASS 13 ログアウト
+PASS 14 再ログイン後の再開
+PASS 15 ギブアップと結果
+PASS 16 次回プレイでの再使用拒否
+PASS 17 CSRF拒否
+PASS 18 初期状態で通知を非表示
+PASS 19 残り10秒通知と入力保持
+PASS 20 30秒でパス・ギブアップ表示
+PASS 21 期限後の直接送信拒否
+PASS 22 時間切れ後パス
+PASS 23 390px幅で横はみ出しなし
+PASS 24 JavaScriptエラーなし
+PASS 25 公開ドキュメントルートからprivateを参照不可
+PASS 26 追加辞書と個人履歴をJSON保存
+ALL 26 CHECKS PASSED
